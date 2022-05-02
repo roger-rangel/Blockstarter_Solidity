@@ -17,6 +17,32 @@
 				"type": "constructor"
 			},
 			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "approvers",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "contribute",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "manager",
 				"outputs": [
@@ -71,11 +97,11 @@
 	},
 	"sources": {
 		"contracts/3_Ballot.sol": {
-			"keccak256": "0x67b350417af90874f53a5b64a9bda06f39f8efcebf72db545f1c1de522ce883d",
+			"keccak256": "0x2e0cc301c1030b1c9f6ca99537eb21e0d60411ae6d37312372049ea57856ce11",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://23f6bcf2dd8560ba2ecdc5f52c4cd55b4862ba955d1bb4a2da4067b282b47b60",
-				"dweb:/ipfs/QmcH2HzesTLfuqsqHnESBNP3mXzc33m7apyYTAcwoPeFiH"
+				"bzz-raw://ef61abd4a0b3dc3f03ba63f8829f898ace5b0e171080eacdec0cb9e927a44ad5",
+				"dweb:/ipfs/Qmbk6zu8g4Tejt5oPFWBnLvizu2Wj2G6tZE7fbUdreqCVz"
 			]
 		}
 	},
