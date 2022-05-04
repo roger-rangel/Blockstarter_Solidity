@@ -19,17 +19,17 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "address",
 						"name": "",
-						"type": "uint256"
+						"type": "address"
 					}
 				],
 				"name": "approvers",
 				"outputs": [
 					{
-						"internalType": "address",
+						"internalType": "bool",
 						"name": "",
-						"type": "address"
+						"type": "bool"
 					}
 				],
 				"stateMutability": "view",
@@ -154,11 +154,11 @@
 	},
 	"sources": {
 		"contracts/3_Ballot.sol": {
-			"keccak256": "0x92836387eeec865605e79998a1d00427654a8605b6401d9f90c11bbbd404096f",
+			"keccak256": "0xa0be4e49e68dcefe68fbd66dc63962b9bbbc705bd3fc5b0852e3fa58a1a1ece5",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://d9430118d584531931ca1cfaada60bec15c968c8d2c802d1857cadf2acace1e9",
-				"dweb:/ipfs/QmPX3YTUFbva71zwa53Jj7vStGHzdtrjpJ1PPb2Mp4osnN"
+				"bzz-raw://4446be52906153681255ae0372fd1f43bfe94bc69947a8edb61320bf07cc141f",
+				"dweb:/ipfs/QmNdqAc9RuFAfnoSmBFiyNcAYcWMRTFJnTqtSYuPQU7ow3"
 			]
 		}
 	},
