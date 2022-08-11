@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
+// Testing Remix connection with Github
 
 pragma solidity >=0.7.0 <0.9.0;
 
